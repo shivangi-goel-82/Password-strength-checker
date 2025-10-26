@@ -1,4 +1,4 @@
-# Password-strength-checker-
+# Password-strength-checker
 Password Strength Checker (Python)
 
 A lightweight and efficient Python tool that analyzes password complexity and provides actionable feedback on strength, entropy, and security posture. It helps users and developers enforce strong password policies by detecting weak patterns, reused sequences, and common vulnerabilities.
@@ -35,7 +35,7 @@ Clone the repository:
 
 ```# git clone https://github.com/shivangi-goel-82/Password-strength-checker-.git```
 
-```# cd password-strength-checker-.py```
+```# cd password-strength-checker.py```
 
 ```# python password-strength-checker.py```
 
